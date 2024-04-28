@@ -1,0 +1,2 @@
+# Red and Green Detection
+ This Python project leverages OpenCV to detect and highlight red and green objects within images. The program adjusts for various shades of red and green to ensure robust detection even in varying lighting conditions. This is particularly useful in applications such as automated sorting systems, quality control in manufacturing, or any scenario where color differentiation is crucial.
