@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Load your image
-image_path = 'assets/WhatsApp Image 2024-02-29 at 10.24.03 AM.jpeg'
+image_path = 'images/assets/testimage.png'
 image = cv2.imread(image_path)
 
 # Check if image is loaded properly
