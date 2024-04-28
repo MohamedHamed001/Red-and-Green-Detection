@@ -51,4 +51,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Test Result
 ![Test Image](images/assets/testimage.png)
+Red objects are highlighted in green and Green objects are highlighted in red
 ![Test Result](images/results/result.png)
